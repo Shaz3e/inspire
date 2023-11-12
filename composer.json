@@ -1,0 +1,19 @@
+{
+    "name": "shaz3e/inspire",
+    "description": "This will show random quote",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shaz3e\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shahrukh A. Khan",
+            "email": "iam@shaz3e.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
